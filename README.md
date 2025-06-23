@@ -1,1 +1,1 @@
-# ai_projects
+# ml_projects
